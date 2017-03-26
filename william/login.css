@@ -1,0 +1,33 @@
+.login-form {
+  padding-top: 5%;
+  margin: auto;
+  width: 50%;
+}
+
+.email-field, .first-name-field, .last-name-field, .password-field, .birthday-labels, .birthday-fields, .updates-field, .terms-field, .button-field {
+  margin-top: 2%;
+}
+
+#birthdayHelp {
+  display:block;
+}
+
+.month {
+  display: inline-block;
+}
+
+.day {
+  display: inline-block;
+}
+
+.year {
+  display: inline-block;
+}
+
+.button-field {
+  width: 100%;
+}
+
+p {
+  text-align: center;
+}
