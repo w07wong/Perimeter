@@ -13,6 +13,10 @@
   font-weight: 300;
 }
 
+#logo-img {
+  display: inline-block;
+}
+
 .home-form {
   width:90%;
   border: 1px solid #ddd;
@@ -55,4 +59,4 @@ footer .glyphicon {
 
 a:link {color:#8ED91E; text-decoration: none;}
 a:visited {color:#8ED91E; text-decoration: none;}
-a:hover {color: #8ED91E;}
+a:hover {color: #7ABD17;}
