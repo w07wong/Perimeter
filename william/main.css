@@ -36,15 +36,21 @@
   color: #8ED91E;
 }
 
-.logo-small {
-  color: gray;
-  font-size: 50px;
+.user-dropdown>li {
+  margin-left: 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-size: 15px;
 }
 
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
     color: gray;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
 }
 
 a:link {color:#8ED91E; text-decoration: none;}
