@@ -1,8 +1,10 @@
 .jumbotron {
   padding-top: 10%;
-  padding-bottom: 15%;
+  padding-bottom: 25%;
   padding-left: 5%;
   background-color: white;
+  //background-image: url("Pictures/hiking-web.jpg");
+  //background-size: cover;
   color: black;
 }
 
@@ -30,6 +32,7 @@
 }
 
 #site-color {
+  text-shadow: 0 0 10px white;
   color: #8ED91E;
 }
 
